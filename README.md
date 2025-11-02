@@ -22,7 +22,7 @@ My goal is to build a career in **Security Analysis and Operations**, combining 
 
 ### 🚀 Featured Projects
 
-#### 🔒 [GuardianBox — Secure File Sharing Platform]([https://github.com/NeoLynX-here/NeoLynX-here])
+#### 🔒 [GuardianBox — Secure File Sharing Platform](https://github.com/NeoLynX-here/NeoLynX-here/guardianbox)
 > End-to-end encrypted file sharing system ensuring client-side data privacy and temporary access links.  
 > **Tech Stack:** React.js · Node.js · Express.js · AES-256 · AWS S3  
 
