@@ -36,7 +36,7 @@ My goal is to build a career in **Security Analysis and Operations**, combining 
 ---
 
 ### 📫 Connect with Me
-🌐 • ✉️ *Astra.NeoLynX@proton.me*  
+🌐 • ✉️ *lynx.2.test@gmail.com*  
 
 ---
 
