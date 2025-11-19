@@ -26,6 +26,10 @@ My goal is to build a career in **Security Analysis and Operations**, combining 
 > End-to-end encrypted file sharing system ensuring client-side data privacy and temporary access links.  
 > **Tech Stack:** React.js · Node.js · Express.js · AES-256  
 
+#### 🔒 [Vaultify — Passwd Manager](https://github.com/NeoLynX-here/vaultify)
+> Encrypted Password Manager
+> Includes: User App + Admin Dashboard + Express Backend + PostgreSQL
+
 ---
 
 ### 📊 What I’m Learning
