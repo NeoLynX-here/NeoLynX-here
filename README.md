@@ -27,7 +27,7 @@ My goal is to build a career in **Security Analysis and Operations**, combining 
 > **Tech Stack:** React.js · Node.js · Express.js · AES-256  
 
 #### 🔒 [Vaultify — Passwd Manager](https://github.com/NeoLynX-here/vaultify)
-> Encrypted Password Manager + cards.                                                  
+> Zero Knowledge Password Manager + cards.                                                  
 > **Includes:** User App + Admin Dashboard + Express Backend + PostgreSQL
 
 ---
