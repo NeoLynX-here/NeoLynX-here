@@ -40,7 +40,8 @@ My goal is to build a career in **Security Analysis and Operations**, combining 
 ---
 
 ### 📫 Connect with Me
-🌐 • ✉️ *lynx.2.test@gmail.com*  
+🌐 • ✉️ *lynx.2.test@gmail.com* 
+🌐 • 🔗 *https://www.linkedin.com/in/adithrajk* 
 
 ---
 
