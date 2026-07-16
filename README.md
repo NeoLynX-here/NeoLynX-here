@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffF712&random=false&width=435&lines=Hey%2C+I'm+Adith+Raj+K+)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffffff&random=false&width=435&lines=Hey%2C+I'm+Adith+Raj+K+)](https://git.io/typing-svg) 
 
 🔐 **Aspiring Cybersecurity & Network Analyst | Threat Detection | Vulnerability Assessment | Network Security Monitoring**
 
@@ -14,7 +14,7 @@ My goal is to build a career in **Security Analysis and Operations**, combining 
 ### ⚙️ Core Skills
 - **Security & Analysis:** Threat Detection, Vulnerability Assessment, Incident Response  
 - **Networking:** Fiber Splicing, Modem Configuration, Network Setup & Troubleshooting  
-- **Tools & Technologies:** Wireshark · Nmap · Snort · Suricata
+- **Tools & Technologies:** Wireshark · Nmap · Metasploit · Wazuh · Splunk · ELK Stack · Log360 · Grafana · Ntopng
 - **System & Scripting:** Linux · Windows · Python · Bash (for automation & log analysis)  
 - **Concepts:** Intrusion Detection Systems, Log Monitoring, Network Protocols, System Hardening  
 
