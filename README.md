@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Adith Raj K 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F712&random=false&width=435&lines=Hey%2C+I'm+Adith+Raj+K+)](https://git.io/typing-svg) 
+<br><br>
 
 🔐 **Aspiring Cybersecurity & Network Analyst | Threat Detection | Vulnerability Assessment | Network Security Monitoring**
 
