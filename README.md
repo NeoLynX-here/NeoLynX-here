@@ -12,7 +12,7 @@ My goal is to build a career in **Security Analysis and Operations**, combining 
 
 ### ⚙️ Core Skills
 - **Security & Analysis:** Threat Detection, Vulnerability Assessment, Incident Response  
-- **Networking:** Fiber Splicing, Modem Configuration, Network Setup & Troubleshooting  
+- **Networking:** TCP/IP, ONU/ONT Configuration, OSI model, Packet tracer  
 - **Tools & Technologies:** Wireshark · Nmap · Metasploit · Wazuh · Splunk · ELK Stack · Log360 · Grafana · Ntopng
 - **System & Scripting:** Linux · Windows · Python · Bash (for automation & log analysis)  
 - **Concepts:** Intrusion Detection Systems, Log Monitoring, Network Protocols, System Hardening  
