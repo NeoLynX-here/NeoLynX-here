@@ -32,9 +32,7 @@ My goal is to build a career in **Security Analysis and Operations**, combining 
 ---
 
 ### 📊 What I’m Learning
-- Advanced Network Defense & SOC Monitoring  
-- CCNA  
-- Penetration Testing & Vulnerability Management  
+- Advanced Network Defense & SOC Monitoring   
 
 ---
 
