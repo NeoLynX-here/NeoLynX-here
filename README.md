@@ -17,19 +17,6 @@ My goal is to build a career in **Security Analysis and Operations**, combining 
 - **System & Scripting:** Linux · Windows · Python · Bash (for automation & log analysis)  
 - **Concepts:** Intrusion Detection Systems, Log Monitoring, Network Protocols, System Hardening  
 
----
-
-### 🚀 Featured Projects
-
-#### 🔒 [GuardianBox — Secure File Sharing Platform](https://github.com/NeoLynX-here/guardianbox)
-> End-to-end encrypted file sharing system ensuring client-side data privacy and temporary access links.  
-> **Tech Stack:** React.js · Node.js · Express.js · AES-256  
-
-#### 🔒 [Vaultify — Passwd Manager](https://github.com/NeoLynX-here/vaultify)
-> Zero Knowledge Password Manager + cards.                                                  
-> **Includes:** User App + Admin Dashboard + Express Backend + PostgreSQL
-
----
 
 ### 📊 What I’m Learning
 - Advanced Network Defense & SOC Monitoring   
